@@ -1,5 +1,12 @@
 export const projectsData = [
-
+    {
+        projectName: 'Memoire',
+        projectDescription:
+            "MERN Web Application used to remember your daily task with authentication facility like login and logout where you can add your daily task with title description and your data will be added to mongodb database",
+        projectUrl: 'https://react-todo-me-pankaj.vercel.app',
+        projectSkills: ' Languages used are Mongodb Express React Nodejs',
+        projectDuration: 'March 2023 - April 2023'
+    },
     {
         projectName: 'Weather Forecast',
         projectDescription:
