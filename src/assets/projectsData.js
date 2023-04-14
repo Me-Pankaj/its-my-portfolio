@@ -43,7 +43,7 @@ export const projectsData = [
         projectName: 'Portfolio Website',
         projectDescription:
             'Developed my own portfolio website showcasing my academic qualification, industrial experience, projects, skills, certifications, achievements, contact details.',
-        projectUrl: ' https://me-pankaj.github.io/portfolio/',
+        projectUrl: 'https://me-pankaj.github.io/its-my-portfolio/',
         projectSkills:'React, Javascript, Html, CSS',
         projectDuration: 'Nov 2022 - Jan 2022'
     }
