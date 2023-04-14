@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/its-my-portfolio/static/css/main.fee0d6bb.chunk.css",
+    "main.js": "/its-my-portfolio/static/js/main.cc0ead13.chunk.js",
+    "main.js.map": "/its-my-portfolio/static/js/main.cc0ead13.chunk.js.map",
+    "runtime-main.js": "/its-my-portfolio/static/js/runtime-main.b3d33984.js",
+    "runtime-main.js.map": "/its-my-portfolio/static/js/runtime-main.b3d33984.js.map",
+    "static/js/2.bb56e318.chunk.js": "/its-my-portfolio/static/js/2.bb56e318.chunk.js",
+    "static/js/2.bb56e318.chunk.js.map": "/its-my-portfolio/static/js/2.bb56e318.chunk.js.map",
+    "index.html": "/its-my-portfolio/index.html",
+    "static/css/main.fee0d6bb.chunk.css.map": "/its-my-portfolio/static/css/main.fee0d6bb.chunk.css.map",
+    "static/js/2.bb56e318.chunk.js.LICENSE.txt": "/its-my-portfolio/static/js/2.bb56e318.chunk.js.LICENSE.txt",
+    "static/media/about_vector.c42fe3db.png": "/its-my-portfolio/static/media/about_vector.c42fe3db.png",
+    "static/media/hackerrank.9cab4ec6.png": "/its-my-portfolio/static/media/hackerrank.9cab4ec6.png",
+    "static/media/leetcode.3e05c90b.png": "/its-my-portfolio/static/media/leetcode.3e05c90b.png",
+    "static/media/skills_vector.1fb5f4a4.png": "/its-my-portfolio/static/media/skills_vector.1fb5f4a4.png",
+    "static/media/working-men.9ead67a2.gif": "/its-my-portfolio/static/media/working-men.9ead67a2.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d33984.js",
+    "static/js/2.bb56e318.chunk.js",
+    "static/css/main.fee0d6bb.chunk.css",
+    "static/js/main.cc0ead13.chunk.js"
+  ]
+}
