@@ -4,4 +4,4 @@ Developed my own portfolio website showcasing my academic qualification,  experi
 
 # Deployed Link of portfolio
 
-https://me-pankaj.github.io/portfolio/
+https://me-pankaj.github.io/its-my-portfolio/
